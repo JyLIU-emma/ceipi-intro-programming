@@ -1,0 +1,101 @@
+﻿text,masked_text,date_span
+"On Wednesday, 2nd October, Phileas Fogg accepted the bet.","On [DATE], Phileas Fogg accepted the bet.","Wednesday, 2nd October"
+The contract was signed on 2024-01-15.,The contract was signed on [DATE].,2024-01-15
+Please submit the form by 2025-12-31.,Please submit the form by [DATE].,2025-12-31
+The shipment arrived on 2024-02-29.,The shipment arrived on [DATE].,2024-02-29
+Her appointment is scheduled for 2026-07-09.,Her appointment is scheduled for [DATE].,2026-07-09
+The archive opened on 1999-11-03.,The archive opened on [DATE].,1999-11-03
+The receipt shows 15/01/2024 as the purchase date.,The receipt shows [DATE] as the purchase date.,15/01/2024
+We booked the room for 01/15/2024.,We booked the room for [DATE].,01/15/2024
+The inspection took place on 3/7/2025.,The inspection took place on [DATE].,3/7/2025
+The letter is dated 03/07/25.,The letter is dated [DATE].,03/07/25
+The invoice was issued on 31-12-2024.,The invoice was issued on [DATE].,31-12-2024
+The application was received on 12-31-2024.,The application was received on [DATE].,12-31-2024
+The meeting is listed under 7-3-25.,The meeting is listed under [DATE].,7-3-25
+The certificate bears the date 15.01.2024.,The certificate bears the date [DATE].,15.01.2024
+The diary entry is dated 3.7.2025.,The diary entry is dated [DATE].,3.7.2025
+The database records the date as 2024/01/15.,The database records the date as [DATE].,2024/01/15
+The photograph is labelled 2024.01.15.,The photograph is labelled [DATE].,2024.01.15
+The event is scheduled for 2026-7-9.,The event is scheduled for [DATE].,2026-7-9
+The museum opened in 1987.,The museum opened in [DATE].,1987
+She graduated in 2001.,She graduated in [DATE].,2001
+The company was founded in 1998.,The company was founded in [DATE].,1998
+The report covers developments in 2024.,The report covers developments in [DATE].,2024
+The painting was restored in 1875.,The painting was restored in [DATE].,1875
+The new policy takes effect in 2030.,The new policy takes effect in [DATE].,2030
+"The lease begins on January 15, 2024.",The lease begins on [DATE].,"January 15, 2024"
+"The hearing is set for February 3, 2025.",The hearing is set for [DATE].,"February 3, 2025"
+"The exhibition opens on March 21, 2026.",The exhibition opens on [DATE].,"March 21, 2026"
+"The payment is due on April 1, 2024.",The payment is due on [DATE].,"April 1, 2024"
+"The workshop starts on May 9, 2025.",The workshop starts on [DATE].,"May 9, 2025"
+"The school closes on June 30, 2026.",The school closes on [DATE].,"June 30, 2026"
+"The festival begins on July 4, 2024.",The festival begins on [DATE].,"July 4, 2024"
+"The tenant moved in on August 12, 2025.",The tenant moved in on [DATE].,"August 12, 2025"
+"The seminar takes place on September 8, 2026.",The seminar takes place on [DATE].,"September 8, 2026"
+"The appeal was filed on October 2, 2024.",The appeal was filed on [DATE].,"October 2, 2024"
+"The parcel arrived on November 11, 2025.",The parcel arrived on [DATE].,"November 11, 2025"
+"The office reopens on December 26, 2026.",The office reopens on [DATE].,"December 26, 2026"
+The agreement was signed on 15 January 2024.,The agreement was signed on [DATE].,15 January 2024
+The lecture is scheduled for 3 February 2025.,The lecture is scheduled for [DATE].,3 February 2025
+The deadline is 21 March 2026.,The deadline is [DATE].,21 March 2026
+The trial began on 1st April 2024.,The trial began on [DATE].,1st April 2024
+"The reservation is for May 2nd, 2025.",The reservation is for [DATE].,"May 2nd, 2025"
+"The guests arrived on June 3rd, 2026.",The guests arrived on [DATE].,"June 3rd, 2026"
+The notice was posted on 4th July 2024.,The notice was posted on [DATE].,4th July 2024
+"The reminder says August 21st, 2025.",The reminder says [DATE].,"August 21st, 2025"
+The application closes on 22nd September 2026.,The application closes on [DATE].,22nd September 2026
+"The ceremony took place on October 23rd, 2024.",The ceremony took place on [DATE].,"October 23rd, 2024"
+The inspection is due on 30th November 2025.,The inspection is due on [DATE].,30th November 2025
+"The party is planned for December 31st, 2026.",The party is planned for [DATE].,"December 31st, 2026"
+"Please call us on Jan 5, 2024.",Please call us on [DATE].,"Jan 5, 2024"
+"The document is dated Feb. 14, 2025.",The document is dated [DATE].,"Feb. 14, 2025"
+The booking starts on 6 Mar 2026.,The booking starts on [DATE].,6 Mar 2026
+The next review is on 7 Apr. 2024.,The next review is on [DATE].,7 Apr. 2024
+"The invitation specifies Jun 8th, 2025.",The invitation specifies [DATE].,"Jun 8th, 2025"
+The delivery is expected on 9 Jul. 2026.,The delivery is expected on [DATE].,9 Jul. 2026
+"The form was completed on Aug. 10, 2024.",The form was completed on [DATE].,"Aug. 10, 2024"
+The hearing was adjourned until 11 Sep 2025.,The hearing was adjourned until [DATE].,11 Sep 2025
+The notice expires on 12 Sept. 2026.,The notice expires on [DATE].,12 Sept. 2026
+"The test is scheduled for Oct 13, 2024.",The test is scheduled for [DATE].,"Oct 13, 2024"
+The reply arrived on 14 Nov. 2025.,The reply arrived on [DATE].,14 Nov. 2025
+"The tickets are valid for Dec. 15, 2026.",The tickets are valid for [DATE].,"Dec. 15, 2026"
+The sale runs from January 5 to January 12.,The sale runs from [DATE] to [DATE].,"[""January 5"", ""January 12""]"
+We met on 2 February and spoke again on 9 February.,We met on [DATE] and spoke again on [DATE].,"[""2 February"", ""9 February""]"
+The sessions are on March 3rd and March 10th.,The sessions are on [DATE] and [DATE].,"[""March 3rd"", ""March 10th""]"
+Please choose either 4th April or 11th April.,Please choose either [DATE] or [DATE].,"[""4th April"", ""11th April""]"
+The room is available on May 5 and May 6.,The room is available on [DATE] and [DATE].,"[""May 5"", ""May 6""]"
+The hearings fall on 6 June and 13 June.,The hearings fall on [DATE] and [DATE].,"[""6 June"", ""13 June""]"
+The invitations mention Jul. 7 and Jul. 14.,The invitations mention [DATE] and [DATE].,"[""Jul. 7"", ""Jul. 14""]"
+The flights depart on 8 Aug and 15 Aug.,The flights depart on [DATE] and [DATE].,"[""8 Aug"", ""15 Aug""]"
+The office closes on Sept. 9 and reopens on Sept. 16.,The office closes on [DATE] and reopens on [DATE].,"[""Sept. 9"", ""Sept. 16""]"
+We will meet on 10 Oct. and review the results on 17 Oct..,We will meet on [DATE] and review the results on [DATE].,"[""10 Oct."", ""17 Oct.""]"
+The interviews are on November 11th and November 18th.,The interviews are on [DATE] and [DATE].,"[""November 11th"", ""November 18th""]"
+The shop closes on 24th December and reopens on 27th December.,The shop closes on [DATE] and reopens on [DATE].,"[""24th December"", ""27th December""]"
+The workshop starts on Monday and ends on Tuesday.,The workshop starts on [DATE] and ends on [DATE].,"[""Monday"", ""Tuesday""]"
+The witness is available on Wednesday or Thursday.,The witness is available on [DATE] or [DATE].,"[""Wednesday"", ""Thursday""]"
+The cafe opens on Friday and closes on Sunday.,The cafe opens on [DATE] and closes on [DATE].,"[""Friday"", ""Sunday""]"
+The match moved from Saturday to Monday.,The match moved from [DATE] to [DATE].,"[""Saturday"", ""Monday""]"
+The timetable lists Mon and Wed as teaching days.,The timetable lists [DATE] and [DATE] as teaching days.,"[""Mon"", ""Wed""]"
+The office accepts visitors on Tue. and Thu..,The office accepts visitors on [DATE] and [DATE].,"[""Tue."", ""Thu.""]"
+The shifts fall on Tues and Thurs.,The shifts fall on [DATE] and [DATE].,"[""Tues"", ""Thurs""]"
+The rehearsals are on Fri. and Sat..,The rehearsals are on [DATE] and [DATE].,"[""Fri."", ""Sat.""]"
+The notice lists Sun and Mon. as closure days.,The notice lists [DATE] and [DATE] as closure days.,"[""Sun"", ""Mon.""]"
+"The meeting moved from Monday, January 15, 2024 to Tuesday, January 16, 2024.",The meeting moved from [DATE] to [DATE].,"[""Monday, January 15, 2024"", ""Tuesday, January 16, 2024""]"
+"The hearing began on Wed, 2 Oct 2024 and ended on Thu, 3 Oct 2024.",The hearing began on [DATE] and ended on [DATE].,"[""Wed, 2 Oct 2024"", ""Thu, 3 Oct 2024""]"
+The workshop runs from Fri. 4 October 2024 to Sat. 5 October 2024.,The workshop runs from [DATE] to [DATE].,"[""Fri. 4 October 2024"", ""Sat. 5 October 2024""]"
+The gallery is open on Sunday 6th October and Monday 7th October.,The gallery is open on [DATE] and [DATE].,"[""Sunday 6th October"", ""Monday 7th October""]"
+"The first session is on Tue., Oct. 8, 2024 and the second is on Wed., Oct. 9, 2024.",The first session is on [DATE] and the second is on [DATE].,"[""Tue., Oct. 8, 2024"", ""Wed., Oct. 9, 2024""]"
+The form was created on 2024-01-15 and updated on 16 January 2024.,The form was created on [DATE] and updated on [DATE].,"[""2024-01-15"", ""16 January 2024""]"
+The organization began in 1995 and expanded in 2005.,The organization began in [DATE] and expanded in [DATE].,"[""1995"", ""2005""]"
+The lease runs from 01/02/2025 to 31/01/2026.,The lease runs from [DATE] to [DATE].,"[""01/02/2025"", ""31/01/2026""]"
+"The notice was sent on Feb. 28, 2024 and received on 2024-02-29.",The notice was sent on [DATE] and received on [DATE].,"[""Feb. 28, 2024"", ""2024-02-29""]"
+The application window runs from 1st March to March 31st.,The application window runs from [DATE] to [DATE].,"[""1st March"", ""March 31st""]"
+"The parcel left on 30.04.2025 and arrived on May 2, 2025.",The parcel left on [DATE] and arrived on [DATE].,"[""30.04.2025"", ""May 2, 2025""]"
+The event moved from 12-06-2026 to 19 June 2026.,The event moved from [DATE] to [DATE].,"[""12-06-2026"", ""19 June 2026""]"
+The archive contains letters from 1888 and 1902.,The archive contains letters from [DATE] and [DATE].,"[""1888"", ""1902""]"
+"The deadline changed from 2025/09/30 to October 15th, 2025.",The deadline changed from [DATE] to [DATE].,"[""2025/09/30"", ""October 15th, 2025""]"
+"The interview was scheduled for Thursday, 10 October 2024 but moved to Friday, 11 October 2024.",The interview was scheduled for [DATE] but moved to [DATE].,"[""Thursday, 10 October 2024"", ""Friday, 11 October 2024""]"
+"The receipt dated 2024-03-05 lists 3 items costing 25 euros each, and the refund was processed on 2024-03-08.","The receipt dated [DATE] lists 3 items costing 25 euros each, and the refund was processed on [DATE].","[""2024-03-05"", ""2024-03-08""]"
+Room 204 is reserved for 12 guests on April 2 and 8 guests on April 3.,Room 204 is reserved for 12 guests on [DATE] and 8 guests on [DATE].,"[""April 2"", ""April 3""]"
+The 2024-page manuscript was submitted in 2025 and published in 2026.,The 2024-page manuscript was submitted in [DATE] and published in [DATE].,"[""2025"", ""2026""]"
+"The label reads ""15 Dec 2024"", while the attached note says ""December 16, 2024"".","The label reads ""[DATE]"", while the attached note says ""[DATE]"".","[""15 Dec 2024"", ""December 16, 2024""]"
