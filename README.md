@@ -1,31 +1,37 @@
-# Introduction to programming and vibe coding
+# Introduction to Programming and Vibe Coding
 
 Welcome to this crash course on programming and vibe coding! 
 
-With the advanced coding agent which can write code for us, there's no need to dive into coding details, e.g., syntax of each programming language. Therefore, in this beginner course, I want to focus on some basic and transferable concepts in programming, and emphasis some useful principals to keep in mind when you build more complexe "code eco-system" with agent. The aime of this course, is not to teach you to become an independant programmer, but to help you understand "what is programming" in a general way, and show you how to better use LLMs to help you coding (so called vibe coding), as well as the limitations if it. Python will be the programming language being used in this course, since it's widely used and its syntax is the most human-friendly.
+With advanced coding agents that can write code for us, there's no need to dive into coding details such as the syntax of each programming language any more. Therefore, this beginner-level course focuses on basic, transferable programming concepts, and highlights useful principles to keep in mind when building more complex "coding ecosystem" with AI agents. 
 
-## A word about the running environment
+The aime of this course is not to teach you to become an independent programmer. Instead, it will help you **understand programming in general**, and show you how to better use LLMs when coding (a practice widely known as **vibe coding**), as well as be aware of their limitations. 
 
-We will run the Notebook in Google Colab, to avoid complicate running environment setups. 
+Python is the programming language used in this course, because it is widely used and has relatively readable, beginner-friendly syntax.
 
-If you want to run this Notebook on your own computer, apart from basic installation of Python, you may also need to install some additional packages for running Notebooks(`.ipynb` files) (e.g., ipykernel, ipywidgets, IPython, etc.). I'll suggest beginner's to install Python within [Anaconda](https://www.anaconda.com/download), with which you should be able to run Notebooks directly with **Jupyter Notebook**, and some of the packages (like `openpyxl`) are already installed inside. But you may still need to install and download supplementary packages (`dateparser`, `spaCy` and its English model `en_core_web_sm`) for NLP-tasks in this notebook.
+## A Word About the Runtime Environment
 
-## Mental setup for this course
+We will run the notebook in Google Colab to avoid complicated environment setup. 
 
-Try whatever you want in this notebook to see what happens, it's your playground, you won't crush anything. 
+If you want to run this notebook on your own computer, in addition to the core Python installation, you may need to install some packages for running notebooks(`.ipynb` files), such as `ipykernel`, `ipywidgets` and `IPython`. I recommend that beginners install Python by installing [Anaconda Distribution](https://www.anaconda.com/download). It allows you to run notebooks directly with **Jupyter Notebook**, and already includes some of the packages required for this course (like `openpyxl`). However, you may still need to install some additional packages (`dateparser`, `spaCy` and its English model `en_core_web_sm`) for the natural language processing tasks in this notebook.
 
-**Don't be afraid of errors and bugs.** Having errors, taking time to analyse the reason, and then fixing them, that's how we learn to code. Of course you can ask LLMs for help, but if you want to learn, take some time to read and understand its explainations instead of copy paste directly its solution. You'll learn much more by solving the bugs than having everything run smoothly and zero problems.
+## A Mindset for Learning to Code
 
-## Short explanation about files in this repository
+Try whatever you want in this notebook and see what happens. It's your **playground**, you will not break anything. 
 
-- **Most important file: [`TD_student.ipynb`](TD_student.ipynb)**, it explains everything, has exercices to be finished (marked with `TODO`), and linked to other supportive files (e.g. data and answers) for the tasks.
+**Don't be afraid of errors and bugs.** Encountering errors, taking time to analyse their causes, and then fixing them, that is how we learn to code. Of course you can ask LLMs for help. However, if you want to learn, take some time to read and understand their explanations instead of directly copying and pasting their solutions. You will learn much more by solving bugs than by having everything run smoothly without any problems.
 
-- [`Slides_programming_intro_VF.pdf`](Slides_programming_intro_VF.pdf): Just show with graphics want I explained in "Analogies for programming" section in `TD_student.ipynb`, credits to GPT for generating the first version of these beautiful illustrations in these slides, hooray 🙌
+## A Short Explanation of the Files in This Repository
 
-- [`tools.py`](tools.py): it includes functiions created specifically for this notebook, you don't need to understand each line in this script, consider it as a toolkit and observe how the functions in it are used/called in [`TD_student.ipynb`](TD_student.ipynb) will be enough. The objectif is to show you how scripts collaborate among them, or, in other words, how to import existing functions.
+- **Most important file: [`TD_student.ipynb`](TD_student.ipynb)**, it explains everything, has exercises to complete (marked with `TODO`), and links to other supporting files (e.g. data and answers to the exercises).
 
-- If you're curious and want to learn more: I chose some functiions in [`tools.py`](tools.py) and annotated them in [`tools_annotated.py`](tools_annotated.py) with comments. You can check this file and try to understand them.
+- [TD_en_answer.ipynb](TD_en_answer.ipynb): it has exactly the same content as [`TD_student.ipynb`](TD_student.ipynb), but includes solutions to the exercises. [TD_en_answer.pdf](TD_en_answer.pdf) is the PDF version.
+
+- [`Slides_programming_intro_VF.pdf`](Slides_programming_intro_VF.pdf): it visually presents the ideas explained in the "Analogies for programming" section of `TD_student.ipynb`. Credit to GPT for generating the first version of the illustrations used in these slides, hooray! 🙌
+
+- [`tools.py`](tools.py): it contains functions created specifically for this notebook. You do not need to understand every line in this script. Think of it as a toolkit and observe how its functions are imported and called in [`TD_student.ipynb`](TD_student.ipynb). The objective is to show you how scripts can work together, or, in other words, how existing functions can be imported and reused.
+
+- If you are curious and want to learn more: I selected some functiions from [`tools.py`](tools.py) and added explanatory comments to them in [`tools_annotated.py`](tools_annotated.py). You can read this file and try to understand how the functions work.
 
 
 
-<p align="center"><strong>Now, enjoy your coding journey !</strong></p>
+<p align="center"><strong>Now, enjoy your coding journey!</strong></p>

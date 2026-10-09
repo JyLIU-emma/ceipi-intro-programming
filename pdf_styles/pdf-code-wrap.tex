@@ -1,0 +1,35 @@
+% Allow syntax-highlighted notebook code to wrap within the page margins.
+\usepackage{fvextra}
+\fvset{
+  breaklines=true,
+  breakanywhere=true,
+  breakautoindent=true
+}
+\RecustomVerbatimEnvironment{Highlighting}{Verbatim}{
+  commandchars=\\\{\},
+  breaklines=true,
+  breakanywhere=true,
+  breakautoindent=true
+}
+\renewenvironment{verbatim}{%
+  \VerbatimEnvironment
+  \begin{Verbatim}[breaklines=true,breakanywhere=true,breakautoindent=true]%
+}{%
+  \end{Verbatim}%
+}
+
+% Visually separate saved notebook output from prose and source code.
+\usepackage{mdframed}
+\definecolor{outputbackground}{RGB}{239,242,245}
+\definecolor{outputforeground}{RGB}{96,103,112}
+\newmdenv[
+  hidealllines=true,
+  backgroundcolor=outputbackground,
+  fontcolor=outputforeground,
+  innerleftmargin=6pt,
+  innerrightmargin=6pt,
+  innertopmargin=5pt,
+  innerbottommargin=5pt,
+  skipabove=6pt,
+  skipbelow=6pt
+]{NotebookOutput}
